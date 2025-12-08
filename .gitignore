@@ -2,5 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-data/
-output/
+
+# 忽略data output 文件/目录
+data
+output
